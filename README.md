@@ -1,9 +1,7 @@
 # Talk English
 
 - Improve communication skills.
-- IT IS ONE OF THE MOST DOMINATING LANGUAGES.
-- THE TOP LANGUAGE OF THE INTERNET.
+- It is one of the most dominating languages.
+- The top language of the internet.
 
-* This project was bootstrapped with [Talk English](https://elegant-hypatia-ad8eb8.netlify.app/).
-
-<!-- ## Available Scripts -->
+This project was bootstrapped with [Talk English](https://elegant-hypatia-ad8eb8.netlify.app/).
