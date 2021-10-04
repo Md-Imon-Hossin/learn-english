@@ -11,7 +11,6 @@ const Services = () => {
             .then(res => res.json())
         .then(data=>setServices(data))
     },[])
-    
     return (
         <div>
             <h2 style={{margin : '25px 0',fontSize: '45px'}}>Featured Courses</h2>
@@ -23,8 +22,6 @@ const Services = () => {
                 ></Service>)
             }
                 </Row>
-
-            
         </div>
     );
 };

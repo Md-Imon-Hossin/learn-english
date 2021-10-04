@@ -1,3 +1,4 @@
+/* About Expert */
 .learning-expert {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -24,6 +25,7 @@
 .about-top {
   padding: 40px 0;
 }
+/* Sign Up section */
 .signup-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -54,4 +56,18 @@
 .signup-container p {
   margin-right: 140px;
   font-weight: 500;
+}
+/* About top  */
+.about-top {
+  background-image: url("./img/books-gfcbaf79a0_1920.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 200px 0;
+  color: #fff;
+  background-attachment: fixed;
+}
+.about-top h2 {
+  font-size: 50px;
+  margin-bottom: 20px;
+  font-weight: 600;
 }
