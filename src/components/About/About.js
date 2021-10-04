@@ -73,15 +73,15 @@ const About = () => {
 
                         <div>
                             <p>First Name :</p>
-                            <input type="text" />
+                            <input placeholder='First Name' type="text" />
                     </div>
                         <div>
                             <p>Last Name :</p>
-                            <input type="text" />
+                            <input placeholder='Last Name' type="text" />
                     </div>
                         <div>
                             <p>Email Address :</p>
-                            <input type="text" />
+                            <input placeholder='Email' type="email" />
                     </div>
                         <div>
                             <button>Sign up For Free</button>

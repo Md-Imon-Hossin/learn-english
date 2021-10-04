@@ -14,7 +14,7 @@ const Services = () => {
     
     return (
         <div>
-            <h2 style={{margin : '25px 0'}}>Experience The Best Service  : {services.length}</h2>
+            <h2 style={{margin : '25px 0',fontSize: '45px'}}>Featured Courses</h2>
             <Row xs={1} md={3} className="g-4">
             {
                     services.map(service => <Service

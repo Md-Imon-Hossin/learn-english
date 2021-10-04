@@ -3,7 +3,8 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div className='footer'>
-            <p>All right reserved by Md Imon Hossin</p>
+            <p>Copyright © 2021 Talk English</p>
+            <p >Designed By: <a className='anchor-footer' href=""> Md Imon Hossin</a></p>
         </div>
     );
 };
