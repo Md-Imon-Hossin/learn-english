@@ -1,0 +1,57 @@
+.learning-expert {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: #27293d;
+  padding: 60px 0;
+}
+.learning-expert h1 {
+  color: #fff;
+
+  font-size: 50px;
+}
+.learning-expert h3 {
+  color: #e74c3c;
+}
+.learning-expert p {
+  color: rgba(255, 255, 255, 0.7);
+}
+.eduPress {
+  padding: 50px 0;
+}
+.edu-title {
+  margin-top: 50px;
+}
+.about-top {
+  padding: 40px 0;
+}
+.signup-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.signUp {
+  background-color: #27ae60;
+  padding: 120px 0 120px 0;
+}
+.signUp h1 {
+  font-size: 65px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.signup-container button {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+  color: #ffffff;
+  width: 250px;
+  padding: 8px 0;
+  margin-top: 37px;
+}
+.signup-container input {
+  width: 250px;
+  padding: 8px 0;
+}
+.signup-container p {
+  margin-right: 140px;
+  font-weight: 500;
+}
